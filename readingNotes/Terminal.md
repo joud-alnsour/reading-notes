@@ -11,5 +11,13 @@ If on Linux then you will probably find it in Applications -> System or Applicat
 If you are on Windows and intend to remotely log into another machine then you will need an SSH client. A rather good one is Putty (free) . 
 
 ## The Basic Navigation
-- Print Working Directory (pwd):this command  to remind what is your path current or present working directory {where your location are}.
-- list (ls):this command It show what's inside the directory {the contents of items}
+- **Print Working Directory (pwd)**:this command  to remind what is your path current or present working directory {where your location are}.
+- **list (ls)**:this command It show what's inside the directory {the contents of items}
+- **Change Directories (cd)**:this command to move path to another directory.
+- **Path** is a means to get to a particular file or directory on the system.
+
+  - two types of paths:
+
+       1- Absolute path 
+  
+       2- Relative path 
