@@ -29,6 +29,48 @@ SQL is a powerful query language used to store, manipulate, and retrieving data,
 | INSERT | add data  |
 | UPDATE | Edit data  |
 | DELETE | delete data  |
+
+`SELECT column, another_column, …
+FROM mytable;`
+
+another form is to have the where (constraints) with the and or and other operators to minimize the search 
+`SELECT column, another_column, …
+FROM mytable
+WHERE condition
+    AND/OR another_condition
+    AND/OR …;`
+ 
+ 
+
+Now here something different appears and thats the **DISTINCT** keyword which only chooses unique rows `SELECT DISTINCT column, another_column, …
+FROM mytable
+WHERE condition(s);`
+
+**Order By keyword**: orders the data in either ascending or descending and in default it is ascending
+
+#### Limiting results to a subset
+We use **Limit** and **offset** which let us limit how many of the rows are read and where to start reading.
+`SELECT column, another_column, …
+FROM mytable
+WHERE condition(s)
+ORDER BY column ASC/DESC
+LIMIT num_limit OFFSET num_offset;`
+
+ 
+
+-------------------------------------------
+
+### Multi-table queries with JOINs
+
+Basically what happens here is that we have to create smaller tables for performance sake instead of one big table and therefore we use **Join** or **INNER JOIN** to connect between 2 tables on something they have in common which is the id.
+
+`SELECT column, another_table_column, …
+FROM mytable
+INNER JOIN another_table 
+    ON mytable.id = another_table.id
+WHERE condition(s)
+ORDER BY column, … ASC/DESC
+LIMIT num_limit OFFSET num_offset;` 
  
 
 
