@@ -1,3 +1,6 @@
+# How to Upgrade your technical skills with deliberate practice:
+building every program that you program does not mean that you improve in programming , but rather improve your technical skills , and this thing allows you to expand in the scope of your work and open up multiple areas for you , you must practice to improve the performance of your work in programming , in depth on how to solve the problems you face , push your self outside your comfort zone , overcome the gaps you face , and learn crypto and rosalind techniques.
+
 # Video summary:
 ## first video : Carol Dweck on the Growth Mindset.
 
