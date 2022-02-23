@@ -4,6 +4,7 @@
 
 ## Code 102 - Intro to Software Development
 ### Table of contents:
+- [Python](/readingNotes/Python.md)
 - [SQL](/readingNotes/SQL.md)
 - [Terminal](/readingNotes/Terminal.md)
 - [The Growth Mindset](/readingNotes/GrowthMindset.md)
