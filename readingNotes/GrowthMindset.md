@@ -16,3 +16,13 @@ the idea of this video is that not every person has a high or intelligent iq in 
 ## Third video : Alain de Botton on Redefining Success. 
 
 in this video ,  he explains to us how to evaluate people through their work or life in terms of success , failure , and failure is not criterion , he is a failed or impersonal person , but rather he was unlucky , and you must to continue to persevere with your work and getting close to rich people causes envy, then you get close to them , you will envy them and explain also the video the difference between our current future and the middle ages , in the old days , the poor person called him unlucky , but in our time they call him a failure especially in developed counties , they fight him instead of sympathizing or support him.
+
+# Emotional Intelligence.
+## This is my Score
+![my Score](/readingNotes/pic/MYScore.png)
+
+**I must improve my performance in terms of self-awareness and enchance my confidence in terms of social awareness and find my self good in managing public relations and managing my own affairs**
+# Biases
+## This is my Result
+![my Result](/readingNotes/pic/MyResult.png)
+**it seems the strongest area im in its how to effective  courage and the reciews that i am in are considered understandable and serious in my decisions**

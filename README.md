@@ -1,9 +1,11 @@
 # Reading Notes
+## Introduction
+> **This website contains the reading notes from the beginning of the course till the end.**
 
 
 
 ## Code 102 - Intro to Software Development
-### Table of contents:
+### **Table of contents:**
 - [Python](/readingNotes/Python.md)
 - [SQL](/readingNotes/SQL.md)
 - [Terminal](/readingNotes/Terminal.md)
