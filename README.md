@@ -1,5 +1,5 @@
 # Reading Notes
 ## Table of contents:
-- [Terminal](/readingNotes/Terminal.md)
 - [SQL](/readingNotes/SQL.md)
+- [Terminal](/readingNotes/Terminal.md)
 - [The Growth Mindset](/readingNotes/GrowthMindset.md)
