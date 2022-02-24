@@ -19,10 +19,10 @@ in this video ,  he explains to us how to evaluate people through their work or 
 
 # Emotional Intelligence.
 ## This is my Score
-![my Score](/readingNotes/pic/MYScore.png)
+![my Score](../assets/MYScore.png)
 
 **I must improve my performance in terms of self-awareness and enchance my confidence in terms of social awareness and find my self good in managing public relations and managing my own affairs**
 # Biases
 ## This is my Result
-![my Result](/readingNotes/pic/MyResult.png)
+![my Result](../assets/MyResult.png)
 **it seems the strongest area im in its how to effective  courage and the reciews that i am in are considered understandable and serious in my decisions**

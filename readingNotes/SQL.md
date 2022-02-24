@@ -153,26 +153,26 @@ LIMIT num_limit OFFSET num_offset;`
 # This is screen shot of the completed task list:
 
  ## Exercise 1
-![alt text for screen readers](/readingNotes/pic/Task1.png)
+![Task](../assets/Task1.png)
 ## Exercise 2
-![alt text for screen readers](/readingNotes/pic/Task2.png)
+![Task](../assets/Task2.png)
 ## Exercise 3
-![alt text for screen readers](/readingNotes/pic/Task3.png)
+![Task](../assets/Task3.png)
 ## Exercise 4
-![alt text for screen readers](/readingNotes/pic/Task4.png)
+![Task](../assets/Task4.png)
 ## Exercise 5
-![alt text for screen readers](/readingNotes/pic/Task5.png)
+![Task](../assets/Task5.png)
 ## Exercise 6
-![alt text for screen readers](/readingNotes/pic/Task6.png)
+![Task](../assets/Task6.png)
 ## Exercise 13
-![alt text for screen readers](/readingNotes/pic/Task13.png)
+![Task](../assets/Task13.png)
 ## Exercise 14
-![alt text for screen readers](/readingNotes/pic/Task14.png)
+![Task](../assets/Task14.png)
 ## Exercise 15
-![alt text for screen readers](/readingNotes/pic/Task15.png)
+![Task](../assets/Task15.png)
 ## Exercise 16
-![alt text for screen readers](/readingNotes/pic/Task16.png)
+![Task](../assets/Task16.png)
 ## Exercise 17
-![alt text for screen readers](/readingNotes/pic/Task17.png)
+![Task](../assets/Task17.png)
 ## Exercise 18
-![alt text for screen readers](/readingNotes/pic/Task18.png)
+![Task](../assets/Task18.png)

@@ -1,2 +1,2 @@
 # Certification of completion Python Core 
-![certificate](/readingNotes/pic/certificate.png)
+![certificate](../assets/certificate.png)
