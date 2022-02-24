@@ -1,6 +1,6 @@
 # Reading Notes
 ## Introduction
-> **This website contains the reading notes from the beginning of the course till the end.**
+> **The reading notes from the start of the course until the end are available on this website.**
 
 
 
