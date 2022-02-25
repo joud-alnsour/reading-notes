@@ -1,8 +1,8 @@
 # Summarization for Terminal:
 ## The Command Line
- - What is the Command Line:
- is the system's text-based user interface. You can enter commands by typing them on the keyboard, and you'll get feedback in the same way that text does.
- - How do I get to one:
+ **What is the Command Line:**
+ is the system's text-based user interface. You can enter commands by typing them on the keyboard, and you'll get feedback in the same way that text does.<br>
+ **How do I get to one:**
  Reading from [this](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
  >Opening a terminal is fairly easy. I can't tell you exactly how to do it as every system is different but here are a few places to start looking.
