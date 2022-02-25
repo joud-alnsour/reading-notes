@@ -152,7 +152,7 @@ LIMIT num_limit OFFSET num_offset;`
 **Answer:** "SELECT TO_CHAR(invoice_date, 'YYYY-MM') as &quot;Month&quot;, SUM(total) FROM invoices GROUP BY &quot;Month&quot;;"
 # This is screen shot of the completed task list:
 
- ## Exercise 1
+## Exercise 1
 ![Task](../assets/Task1.png)
 ## Exercise 2
 ![Task](../assets/Task2.png)
