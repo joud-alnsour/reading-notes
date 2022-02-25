@@ -38,9 +38,9 @@ So When you refer to a file or directory on the command line you are actually re
 - To get out of the spaces, use tab completion.
 
 ## Manual Pages
-Pages where a user may find all the commands,by using the command line man ls.<br>
+- Pages where a user may find all the commands,by using the command line man ls.<br>
 
-Another technique to discover a command is Man -k search phrase>, will display all commands. You may also search within the man command by adding /term> and then typing n to page through the results.
+- Another technique to discover a command is Man -k search phrase>, will display all commands. You may also search within the man command by adding /term> and then typing n to page through the results.
 
 ## File Manipulation
 mkdir Create a directory, i.e. Make a directory for your files. rmdir Delete the directory - i.e. Remove a directory from the system. touch Make a new blank file. cp Copy (i.e. a copy of a copy of a copy of a copy A file or directory is copied. mv Make a move -i.e. Change the location of a file or directory (can also be used to rename). rm Delete - i.e. Remove a file from your computer.
