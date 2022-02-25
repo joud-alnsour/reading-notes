@@ -20,11 +20,11 @@ If you are on Windows and intend to remotely log into another machine then you w
 
        1- Absolute path 
   
-       2- Relative path 
-  The difference between them is that absolute and relative path always begin with a slash (/)
-So When you refer to a file or directory on the command line you are actually referring to a path. The path can be constructed using any elements     
-Let's Move Around a Bit
-**(cd) command is used in order to move to another directory on change it.**
+       2- Relative path<br> 
+       
+       The difference between them is that absolute path always begin with a slash (/)
+So When you refer to a file or directory on the command line you are actually referring to a path. The path can be constructed using any elements.
+ 
 ## More About Files
 1- Everything is a file Under the hood, everything is actually a file. Even your keyboard is a file (one that the system reads from only) and your monitor is a File. This won't affect what we do too much but it will help understanding how the system works.<br>
 2-A file extension is normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is. The following are common extensions:
