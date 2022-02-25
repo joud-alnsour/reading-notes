@@ -32,7 +32,6 @@ So When you refer to a file or directory on the command line you are actually re
    - file.exe : an executable file, or program.
    - file.txt : a plain text file.
    - file.png, file.gif, file.jpg : an image.
-<br>
 
 - Hidden files are ones that begin with . therefore in order to see those files using ls, we must add the -a option to make it like ls -a. 
 
