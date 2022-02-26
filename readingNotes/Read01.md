@@ -25,7 +25,7 @@ this page talks about the amount of effort and perseverance durin this course , 
 - Float, int, tuples, and strings are immutable types.
 - The name of a variable must begin with a letter or the underscore character.
 - A number cannot be the first character in a variable name.
-- Objects, lists, values , keys, and everything to the left of an assignment are all attributes.
+- Objects, lists, values , keys, and everything to the left of an assignment are all attributes.<br>
  [Page Link](https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5)
 
 
