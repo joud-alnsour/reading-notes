@@ -17,3 +17,4 @@
 - [SQL](/readingNotes/SQL.md)
 - [Terminal](/readingNotes/Terminal.md)
 - [The Growth Mindset](/readingNotes/GrowthMindset.md)
+- [Read01](/readingNotes/Read01.md)
