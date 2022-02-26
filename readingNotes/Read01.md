@@ -1,7 +1,7 @@
 ## The Big O  
 - is used to express the performance or complexity of an algorithm. and can be used to represent the amount of time it takes to complete a task or the amount of space it takes up.
 
- #### The following are some of the most prevalent Big O Notation orders:<br>
+ The following are some of the most prevalent Big O Notation orders:<br>
 1-**O(1)** describes an algorithm that will always execute in the same time  regardless of the size of the input data set.
 
 2-**O(N)** describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set.
