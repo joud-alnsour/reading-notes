@@ -18,7 +18,9 @@ Example : if our module is **gender.py**, our test name should be **test_gender.
 
     - Arrange: You'll need to organize the data you'll require to run that code (input).
     - Act: this is where you'll run the code that's being tested.
-    - Assert: after running the code, check to see if the result (output) matches what you expected.   
+    - Assert: after running the code, check to see if the result (output) matches what you expected.
+      
+      
 ## The Cycle:
 >The Cycle is made up by three steps:<br>
     a. 🆘 Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)<br>
@@ -33,6 +35,7 @@ Example : if our module is **gender.py**, our test name should be **test_gender.
 - in python, import the function on the required file... but during testing, the function will execute even if it is not called on the required file, therefore to avoid this, we use if __name__ == “__main__”  ;
 
 - What this means is that if indent lines are called from other files, they will not run.<br>
+
 **Advantages:**
 
 >1- Every Python module has it’s __name__ defined and if this is ‘__main__’, it implies that the module is being run standalone by the user and we can do corresponding appropriate actions.<br>
