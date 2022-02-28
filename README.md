@@ -13,8 +13,13 @@
 
 ## Code 401 - Advanced Software Development
 ### **Table of contents:**
-- [Python](/readingNotes/Python.md)
-- [SQL](/readingNotes/SQL.md)
-- [Terminal](/readingNotes/Terminal.md)
-- [The Growth Mindset](/readingNotes/GrowthMindset.md)
-- [Read01](/readingNotes/Read01.md)
+
+
+| Title | Links | 
+| :-------------: | :----------: |
+| Python | [Link](/readingNotes/Python.md) | 
+| SQL | [Link](/readingNotes/SQL.md) | 
+| Terminal | [Link](/readingNotes/Terminal.md) | 
+| The Growth Mindset | [Link](/readingNotes/GrowthMindset.md) | 
+| Read01 | [Link](/readingNotes/Read01.md) | 
+| Read02 | [Link](/readingNotes/Read02.md) | 
