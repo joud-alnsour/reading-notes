@@ -39,7 +39,7 @@ We have two options for closing the file:<br>
    
 [Page Link](https://realpython.com/read-write-files-python/)
 
-## Python Exceptions
+# Python Exceptions
 
 **Exceptions versus Syntax Errors**<br>
 When the parser identifies an erroneous statement, syntax errors occur. Where there is an exception error When syntactically correct Python code produces an error, this is the type of mistake that occurs.
