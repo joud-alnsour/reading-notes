@@ -23,3 +23,4 @@
 | The Growth Mindset | [Link](/readingNotes/GrowthMindset.md) | 
 | Read01 | [Link](/readingNotes/Read01.md) | 
 | Read02 | [Link](/readingNotes/Read02.md) | 
+| Read03 | [Link](/readingNotes/Read03.md) |
