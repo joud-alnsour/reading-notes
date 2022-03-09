@@ -25,3 +25,5 @@
 | Read02 | [Link](/readingNotes/Read02.md) | 
 | Read03 | [Link](/readingNotes/Read03.md) |
 | Read04 | [Link](/readingNotes/Read04.md) |
+| Read05 | [Link](/readingNotes/Read05.md) |
+| Read06 | [Link](/readingNotes/Read06.md) |
