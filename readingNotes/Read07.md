@@ -18,4 +18,7 @@ The LEGB rule, named after the Python scope for names, is used to resolve names 
 - **Global (or module) scope:**<br>
 In a Python program, script, or module, the top-most scope is called. This Python scope contains all of the names defined at the program or module's top level. This Python scope's names are viewable from anywhere in your code.
 - **Built-in scope:**<br>
-When you run a script or open an interactive session, a particular Python scope is built or loaded. This scope contains Python's built-in names, such as keywords, functions, exceptions, and other properties. This Python scope's names are accessible from anywhere in your code. Python loads it automatically when you launch a program or script.
+When you run a script or open an interactive session, a particular Python scope is built or loaded. This scope contains Python's built-in names, such as keywords, functions, exceptions, and other properties. This Python scope's names are accessible from anywhere in your code. Python loads it automatically when you launch a program or script.<br>
+
+[Page Link](https://realpython.com/python-scope-legb-rule/)
+
