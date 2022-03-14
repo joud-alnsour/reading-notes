@@ -13,4 +13,9 @@ The concept of scope is strongly tied to the concept of namespace in Python. A P
 The namespace of a module stores the names at the top level of the module. In other words, they're saved in the.__dict__  attribute of the module.<br>
 **Using the LEGB Rule for Python Scope**<br>
 The LEGB rule, named after the Python scope for names, is used to resolve names in Python. Local, Enclosing, Global, and Built-in are the letters in LEGB.
-- Local (or function) scope:
+- **Local (or function) scope:**<br>Any Python function or lambda expression's code block or body. The names you define inside the function are stored in this Python scope. These names will only be seen in the function's code. Because it's produced when a function is called rather than when it's defined, you'll have as many different local scopes as function calls. Even if you call the same function numerous times or recursively, this holds true. Each call will result in the creation of a new local scope.
+- **Enclosing (or nonlocal) scope:**<br>This is a unique scope that only applies to nested functions. The enclosing scope is the scope of the outer or enclosing function if the local scope is an inner or nested function. The names defined in the enclosing function are stored in this scope. From the code of the inner and enclosing functions, the names in the enclosing scope are accessible.
+- **Global (or module) scope:**<br>
+In a Python program, script, or module, the top-most scope is called. This Python scope contains all of the names defined at the program or module's top level. This Python scope's names are viewable from anywhere in your code.
+- **Built-in scope:**<br>
+When you run a script or open an interactive session, a particular Python scope is built or loaded. This scope contains Python's built-in names, such as keywords, functions, exceptions, and other properties. This Python scope's names are accessible from anywhere in your code. Python loads it automatically when you launch a program or script.
