@@ -28,3 +28,4 @@
 | Read05 | [Link](/readingNotes/Read05.md) |
 | Read06 | [Link](/readingNotes/Read06.md) |
 | Read07 | [Link](/readingNotes/Read07.md) |
+| Read08 | [Link](/readingNotes/Read08.md) |
