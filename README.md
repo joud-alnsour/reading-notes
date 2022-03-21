@@ -17,7 +17,7 @@
 
 | Week | Title | Links | 
 | :-------------: | :----------: | :----------: |
-| PPrep-week | Python | [Link](/readingNotes/Python.md) | 
+| Prep week | Python | [Link](/readingNotes/Python.md) | 
 |   | SQL | [Link](/readingNotes/SQL.md) | 
 |   | Terminal | [Link](/readingNotes/Terminal.md) | 
 |   | The Growth Mindset | [Link](/readingNotes/GrowthMindset.md) | 
