@@ -15,17 +15,18 @@
 ### **Table of contents:**
 
 
-| Title | Links | 
-| :-------------: | :----------: |
-| Python | [Link](/readingNotes/Python.md) | 
-| SQL | [Link](/readingNotes/SQL.md) | 
-| Terminal | [Link](/readingNotes/Terminal.md) | 
-| The Growth Mindset | [Link](/readingNotes/GrowthMindset.md) | 
-| Read01 | [Link](/readingNotes/Read01.md) | 
-| Read02 | [Link](/readingNotes/Read02.md) | 
-| Read03 | [Link](/readingNotes/Read03.md) |
-| Read04 | [Link](/readingNotes/Read04.md) |
-| Read05 | [Link](/readingNotes/Read05.md) |
-| Read06 | [Link](/readingNotes/Read06.md) |
-| Read07 | [Link](/readingNotes/Read07.md) |
-| Read08 | [Link](/readingNotes/Read08.md) |
+| Week | Title | Links | 
+| :-------------: | :----------: | :----------: |
+| PPrep-week | Python | [Link](/readingNotes/Python.md) | 
+|   | SQL | [Link](/readingNotes/SQL.md) | 
+|   | Terminal | [Link](/readingNotes/Terminal.md) | 
+|   | The Growth Mindset | [Link](/readingNotes/GrowthMindset.md) | 
+| Week 1 | Read01 | [Link](/readingNotes/Read01.md) | 
+|   | Read02 | [Link](/readingNotes/Read02.md) | 
+|   | Read03 | [Link](/readingNotes/Read03.md) |
+| Week 2 | Read04 | [Link](/readingNotes/Read04.md) |
+|   | Read05 | [Link](/readingNotes/Read05.md) |
+|   | Read06 | [Link](/readingNotes/Read06.md) |
+| Week 3 | Read07 | [Link](/readingNotes/Read07.md) |
+|   | Read08 | [Link](/readingNotes/Read08.md) |
+| Week 4 | Read09 | [Link](/readingNotes/Read09.md) |
