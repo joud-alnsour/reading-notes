@@ -22,7 +22,10 @@ Numpy is a Python data analysis package that may be used to speed up workflow an
 - Use the genfromtxt function to read in the winequality-red.csv file.
 - Specify the keyword argument delimiter=";" so that the fields are parsed properly.
 - Specify the keyword argument skip_header=1 so that the header row is skipped. <br>
-```wines = np.genfromtxt("winequality-red.csv", delimiter=";", skip_header=1)```
+```
+ wines = np.genfromtxt("winequality-red.csv", delimiter=";", skip_header=1)
+ 
+ ```
 
 **Several NumPy methods:**
 
