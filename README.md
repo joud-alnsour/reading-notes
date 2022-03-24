@@ -30,3 +30,5 @@
 | Week 3 | Read07 | [Link](/readingNotes/Read07.md) |
 |   | Read08 | [Link](/readingNotes/Read08.md) |
 | Week 4 | Read09 | [Link](/readingNotes/Read09.md) |
+|   | Read10 | [Link](/readingNotes/Read10.md) |
+|   | Read11 | [Link](/readingNotes/Read11.md) |
