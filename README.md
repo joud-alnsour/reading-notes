@@ -34,3 +34,4 @@
 |   | Read11 | [Link](/readingNotes/Read11.md) |
 | Week 5 | Read12 | [Link](/readingNotes/Read12.md) |
 |   | Read13 | [Link](/readingNotes/Read13.md) |
+|   | Read14 | [Link](/readingNotes/Read14.md) |
