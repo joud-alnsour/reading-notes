@@ -36,3 +36,4 @@
 |   | Read13 | [Link](/readingNotes/Read13.md) |
 | Week 6 | Read14 | [Link](/readingNotes/Read14.md) |
 |   | Read15 | [Link](/readingNotes/Read15.md) |
+|   | Read16 | [Link](/readingNotes/Read16.md) |
