@@ -38,5 +38,6 @@
 |   | Read15 | [Link](/readingNotes/Read15.md) |
 |   | Read16 | [Link](/readingNotes/Read16.md) |
 | Week 7 | Read17 | [Link](/readingNotes/Read17.md) |
-|  | Read26 | [Link](/readingNotes/Read26.md) |
+| Week 10 | Read26 | [Link](/readingNotes/Read26.md) |
 |  | Read27 | [Link](/readingNotes/Read27.md) |
+|  | Read28 | [Link](/readingNotes/Read28.md) |
