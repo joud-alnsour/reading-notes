@@ -41,3 +41,4 @@
 | Week 10 | Read26 | [Link](/readingNotes/Read26.md) |
 |  | Read27 | [Link](/readingNotes/Read27.md) |
 |  | Read28 | [Link](/readingNotes/Read28.md) |
+| Week 11 | Read29 | [Link](/readingNotes/Read29.md) |
