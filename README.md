@@ -42,3 +42,4 @@
 |  | Read27 | [Link](/readingNotes/Read27.md) |
 |  | Read28 | [Link](/readingNotes/Read28.md) |
 | Week 11 | Read29 | [Link](/readingNotes/Read29.md) |
+|  | Read30 | [Link](/readingNotes/Read30.md) |
