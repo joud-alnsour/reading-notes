@@ -46,4 +46,4 @@
 |  | Read31 | [Link](/readingNotes/Read31.md) |
 | Week 12 | Read32 | [Link](/readingNotes/Read32.md) |
 |   | Read33 | [Link](/readingNotes/Read33.md) |
-|   | Read34 | [Link](/readingNotes/Read33.md) |
+|   | Read34 | [Link](/readingNotes/Read34.md) |
