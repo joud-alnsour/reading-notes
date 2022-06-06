@@ -48,3 +48,4 @@
 |   | Read33 | [Link](/readingNotes/Read33.md) |
 |   | Read34 | [Link](/readingNotes/Read34.md) |
 |   | Read Graphs | [Link](/readingNotes/ReadGraphs.md) |
+| Week 13 | Read36 | [Link](/readingNotes/Read36.md) |
