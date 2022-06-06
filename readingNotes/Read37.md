@@ -4,6 +4,7 @@
 - Rendering Elements: smallest building blocks of react apps. Update the DOM to match the React elements.
 - Components: bread and butter of React. Elements can display our components, passing JSX attributes and children to our components as an object called "props". Always start components with a capital letter.
 - State: State is similar to props, but it is private and fully controlled by the component.
+
 **Converting a Function into a Class, with Local State**
 ```
 class Clock extends React.Component {
