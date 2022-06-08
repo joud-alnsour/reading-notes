@@ -50,3 +50,4 @@
 |   | Read Graphs | [Link](/readingNotes/ReadGraphs.md) |
 | Week 13 | Read36 | [Link](/readingNotes/Read36.md) |
 |  | Read37 | [Link](/readingNotes/Read37.md) |
+|  | Read38 | [Link](/readingNotes/Read38.md) |
